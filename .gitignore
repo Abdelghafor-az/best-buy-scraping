@@ -1,0 +1,5 @@
+.py_env/
+products_images
+image_url_mapping_old.json
+image_url_mapping.json
+.env
